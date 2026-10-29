@@ -123,7 +123,7 @@ export const StudentPass: React.FC<StudentPassProps> = ({
       <div style={{ marginBottom: '1.5rem', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
         <div>
           <h2 style={{ fontSize: '1.25rem', fontWeight: 700, color: 'var(--navy-900)' }}>
-            Feature 4: Consent-Gated Verifiable Student Pass
+            Consent-Gated Verifiable Student Pass
           </h2>
           <p style={{ fontSize: '0.85rem', color: 'var(--slate-500)', marginTop: '0.2rem' }}>
             Digitally signed, cryptographic academic credential. Enables students to grant time-limited, selective-disclosure verification to prospective employers and regulatory bodies.

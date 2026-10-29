@@ -46,7 +46,7 @@ export const AuditChain: React.FC<AuditChainProps> = ({ blocks }) => {
       <div style={{ marginBottom: '1.5rem', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
         <div>
           <h2 style={{ fontSize: '1.25rem', fontWeight: 700, color: 'var(--navy-900)' }}>
-            Feature 5: Tamper-Evident Audit Chain
+            Tamper-Evident Audit Chain
           </h2>
           <p style={{ fontSize: '0.85rem', color: 'var(--slate-500)', marginTop: '0.2rem' }}>
             Cryptographically hash-chained immutable ledger. Every upload, student update, and intake modification generates a signed receipt that cannot be altered retroactively.

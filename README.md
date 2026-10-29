@@ -70,14 +70,21 @@ An integrated digital platform for AICTE-approved institutions and the central r
 - Node.js (v18 or higher)
 - npm (v9 or higher)
 
-### Installation & Run
+### Quick Run (Windows)
+Double-click `run.bat` or run:
+```cmd
+run.bat
+```
+This automatically installs dependencies (if missing), starts the Vite server, and opens [http://localhost:5173](http://localhost:5173) in your default browser.
+
+### Manual Installation & Run
 
 ```bash
 # Clone the repository
-git clone https://github.com/bhavesh2148/aicte-apaar-portal.git
+git clone https://github.com/introxxzz/Satyam.git
 
 # Navigate into the project directory
-cd aicte-apaar-portal
+cd Satyam
 
 # Install dependencies
 npm install

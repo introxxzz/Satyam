@@ -29,7 +29,7 @@ export const GhostRadar: React.FC<GhostRadarProps> = ({
       <div style={{ marginBottom: '1.5rem', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
         <div>
           <h2 style={{ fontSize: '1.25rem', fontWeight: 700, color: 'var(--navy-900)' }}>
-            Feature 2: Ghost Enrolment Radar
+            Ghost Enrolment Radar
           </h2>
           <p style={{ fontSize: '0.85rem', color: 'var(--slate-500)', marginTop: '0.2rem' }}>
             Zero-knowledge cross-institutional matching detecting overlapping regular degree enrollments and inactive ghost students without academic trails.

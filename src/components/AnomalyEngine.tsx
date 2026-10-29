@@ -31,7 +31,7 @@ export const AnomalyEngine: React.FC<AnomalyEngineProps> = ({
       <div style={{ marginBottom: '1.5rem', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
         <div>
           <h2 style={{ fontSize: '1.25rem', fontWeight: 700, color: 'var(--navy-900)' }}>
-            Feature 3: Explainable Anomaly Engine & Institution Trust Score
+            Explainable Anomaly Engine &amp; Institution Trust Score
           </h2>
           <p style={{ fontSize: '0.85rem', color: 'var(--slate-500)', marginTop: '0.2rem' }}>
             Unsupervised statistical models detecting late-cycle surges, sudden NRI/FN spikes, and category-ratio drift with plain-language explanations. AI flags; Regulatory Officers decide.

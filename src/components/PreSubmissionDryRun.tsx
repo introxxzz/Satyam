@@ -84,7 +84,7 @@ export const PreSubmissionDryRun: React.FC<PreSubmissionDryRunProps> = ({
       <div style={{ marginBottom: '1.5rem', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
         <div>
           <h2 style={{ fontSize: '1.25rem', fontWeight: 700, color: 'var(--navy-900)' }}>
-            Feature 6: Pre-Submission Dry-Run & Data Health Score
+            Pre-Submission Dry-Run &amp; Data Health Score
           </h2>
           <p style={{ fontSize: '0.85rem', color: 'var(--slate-500)', marginTop: '0.2rem' }}>
             Pre-flight dry-run validator. Tests batch upload data before central database commit, generates row-level error reports with one-click fixes, and prevents regulatory rejections.
